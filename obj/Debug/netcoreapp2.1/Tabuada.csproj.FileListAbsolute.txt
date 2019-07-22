@@ -1,0 +1,11 @@
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.deps.json
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.json
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.runtimeconfig.dev.json
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.dll
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\bin\Debug\netcoreapp2.1\Tabuada.pdb
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.csprojAssemblyReference.cache
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfoInputs.cache
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.AssemblyInfo.cs
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.dll
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\Tabuada\obj\Debug\netcoreapp2.1\Tabuada.pdb
